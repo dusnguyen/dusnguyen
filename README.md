@@ -1,6 +1,7 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+an+Enterprise+Transformation+Consultant;+Former+Head+of+Engineering+%26+DevSecOps;+Scaling+High-Compliance+Cloud+Architecture...🚀" alt="Typing SVG" />
+  <h1>Hi, I'm an Enterprise Transformation Consultant 🚀</h1>
+  <h3>Former Head of Engineering & DevSecOps | Scaling High-Compliance Cloud Architecture</h3>
 </p>
 
 <p align="center">
@@ -18,15 +19,19 @@ I am an **Enterprise DevSecOps & Cloud Transformation Consultant** and former **
 
 With extensive experience steering large-scale Digital, Platform, and Security overhauls across highly regulated sectors and hyper-scale global markets, my career track record includes delivering technical strategy and architecture for:
 
-*   **Global Enterprise & E-Commerce:** Driving scalability and infrastructure engineering for **eBay**.
-*   **Tier-1 Financials & Insurance:** Leading core technological and digital transformations for **Allianz UK**, as well as the largest private banks in **Vietnam** and **the Philippines**.
-*   **Public Sector & Regulated Government:** Architecting secure, compliant public cloud infrastructure modernization for the **Ministry of Justice (MoJ) of the United Kingdom**.
-*   **Gaming & Digital Entertainment:** Architected and engineered the seminal, first-generation hosting infrastructure for **Sega's** *Football Manager Live*, pioneering high-concurrency, low-latency platform delivery models for mass-multiplayer online environments.
+* **Global Enterprise & E-Commerce:** Driving scalability and infrastructure engineering for **eBay**.
+* **Tier-1 Financials & Insurance:** Leading core technological and digital transformations for **Allianz UK**, as well as the largest private banks in **Vietnam** and **the Philippines**.
+* **Public Sector & Regulated Government:** Architecting secure, compliant public cloud infrastructure modernization for the **Ministry of Justice (MoJ) of the United Kingdom**.
+* **Gaming & Digital Entertainment:** Architected and engineered the seminal, first-generation hosting infrastructure for **Sega's** *Football Manager Live*, pioneering high-concurrency, low-latency platform delivery models for mass-multiplayer online environments.
 
-- 🏢 **Leadership Domain:** Engineering Org Design, DevSecOps Culture, Platform Engineering, SRE, and Cloud Native Architecture.
-- 🔐 **Security-First Platforms:** Implementing end-to-end continuous security guardrails, automated code quality scanning (SAST/DAST), and strict enterprise secret management to protect code supply chains.
-- 🤖 **Data & AI Platform Engineering:** Designing scalable, secure foundations for high-throughput data platforms and enterprise AI infrastructure, ensuring seamless orchestration, data governance, and secure MLOps environments.
-- ⚡ **Core Focus:** Turning fragmented, high-risk development workflows into streamlined, automated, and immutable "paved roads" built to stringent global compliance standards.
+---
+
+### 🎯 Strategic Core Pillars
+
+* 🏢 **Leadership Domain:** Engineering Org Design, DevSecOps Culture, Platform Engineering, SRE, and Cloud Native Architecture.
+* 🔐 **Security-First Platforms:** Implementing end-to-end continuous security guardrails, automated code quality scanning (SAST/DAST), and strict enterprise secret management to protect code supply chains.
+* 🤖 **Data & AI Platform Engineering:** Designing scalable, secure foundations for high-throughput data platforms and enterprise AI infrastructure, ensuring seamless orchestration, data governance, and secure MLOps environments.
+* ⚡ **Core Focus:** Turning fragmented, high-risk development workflows into streamlined, automated, and immutable "paved roads" built to stringent global compliance standards.
 
 ---
 
@@ -50,7 +55,7 @@ With extensive experience steering large-scale Digital, Platform, and Security o
 
 <p align="left">
   <!-- Infrastructure as Code & Config -->
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terrarefm" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/terragrunt-%234D4D4D.svg?style=for-the-badge&logo=terragrunt&logoColor=white" alt="Terragrunt" />
   <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/puppet-%23FFAE1A.svg?style=for-the-badge&logo=puppet&logoColor=black" alt="Puppet" />
@@ -63,25 +68,6 @@ With extensive experience steering large-scale Digital, Platform, and Security o
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
-
----
-
-### 📊 Real-Time GitHub Analytics
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dusnguyen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusnguyen&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dusnguyen&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,4 +96,3 @@ async def orchestrate_enterprise_transformation(organization: ExecutiveLeadershi
     except ComplianceViolation as e:
         logger.critical(f"Security boundary breached: {e}")
         await enforce_automated_quarantine()
-```
