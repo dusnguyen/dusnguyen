@@ -88,10 +88,6 @@ With extensive experience steering large-scale Digital, Platform, and Security o
 
 ### 🛡️ Core Engineering Philosophy
 
----
-
-### 🛡️ Core Engineering Philosophy
-
 ```python
 import asyncio
 
