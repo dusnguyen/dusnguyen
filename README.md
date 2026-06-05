@@ -72,10 +72,28 @@ With extensive experience steering large-scale Digital, Platform, and Security o
 
 ---
 
+### 📊 Real-Time GitHub Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dusnguyen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dusnguyen&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://git-streak-stats.vercel.app/?user=dusnguyen&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🛡️ Core Engineering Philosophy
 
-```python
-import asyncio
+<pre><code class="language-python">import asyncio
 
 async def orchestrate_enterprise_transformation(organization: ExecutiveLeadership) -> bool:
     try:
@@ -96,20 +114,12 @@ async def orchestrate_enterprise_transformation(organization: ExecutiveLeadershi
     except ComplianceViolation as e:
         logger.critical(f"Security boundary breached: {e}")
         await enforce_automated_quarantine()
+</code></pre>
 
-### 📊 Real-Time GitHub Analytics
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=dusnguyen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dusnguyen&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
+<!-- FOOTER START -->
 <p align="center">
-  <img src="https://git-streak-stats.vercel.app/?user=dusnguyen&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=dusnguyen&label=PROFILE+VIEWS&color=39FF14&style=flat-square" alt="Profile Views" />
 </p>
+<!-- FOOTER END -->
